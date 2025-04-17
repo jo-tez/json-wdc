@@ -1,5 +1,5 @@
 {
-  "name": "json-xml-wdc",
+  "name": "json-wdc",
   "version": "1.0.0",
   "description": "A simple Tableau Web Data Connector for connecting to JSON and XML data.",
   "main": "server.js",
@@ -15,7 +15,7 @@
     "node": "12.x"
   },
   "repository": {
-    "url": "https://github.com/KeshiaRose/json-xml-wdc"
+    "url": "https://github.com/jo-tez/json-wdc"
   },
   "license": "MIT",
   "keywords": [
